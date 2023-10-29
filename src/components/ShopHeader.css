@@ -1,0 +1,28 @@
+.navBar{
+    /* background-color: rgb(185, 228, 112); */
+    background: linear-gradient(to right, #bdc3c7, #2c3e50);
+}
+nav Link{
+    justify-content: flex-end;
+}
+.nav-bar{
+    margin-left: 20px;
+}
+/* .nav-items{
+    margin-right: 30px;
+} */
+.nav-items {
+    @media (max-width: 768px) {
+      overflow: hidden;
+      flex-direction: column;
+      background-color: #f8f9fa; /* Example background color for the collapsed menu */
+      padding: 10px; /* Add some spacing to each item in the collapsed menu */
+    }
+  }
+
+  .navbar-item{
+      color: #f8f9fa;
+}
+.white-text {
+    color: white;
+  }

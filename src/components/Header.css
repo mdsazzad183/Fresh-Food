@@ -1,0 +1,10 @@
+nav Link{
+  justify-content: flex-end;
+}
+.nav-bar{
+  margin-left: 20px;
+}
+.nav-items{
+  margin-right: 30px;
+  color: aliceblue;
+}

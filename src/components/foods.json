@@ -1,0 +1,245 @@
+{
+    "foods": [
+      {
+        "id": 1,
+        "name": "Cabbage",
+        "photo_url": "https://img.freepik.com/free-photo/purple-cabbage_1339-920.jpg",
+        "price": 30
+      },
+      {
+        "id": 2,
+        "name": "Capsicum",
+        "photo_url": "https://img.freepik.com/free-photo/macro-shot-sweet-bell-pepper-isolated-white-background_53876-32417.jpg",
+        "price": 5
+      },
+      {
+        "id": 3,
+        "name": "Garlic",
+        "photo_url": "https://img.freepik.com/free-photo/close-up-fresh-garlic_144627-34523.jpg",
+        "price": 20
+      },
+      {
+        "id": 4,
+        "name": "Tomatoes",
+        "photo_url": "https://img.freepik.com/free-photo/big-red-fresh-tomatoes-wooden-board_114579-55594.jpg",
+        "price": 5
+      },
+      {
+        "id": 5,
+        "name": "Celeriac",
+        "photo_url": "https://img.freepik.com/free-photo/closeup-shot-bunch-fresh-chinese-mugwort-isolated-white-background_181624-60939.jpg",
+        "price": 5
+      },
+      {
+        "id": 6,
+        "name": "Carrots",
+        "photo_url": "https://img.freepik.com/free-photo/carrots-white-surface_144627-45157.jpg",
+        "price": 60
+      },
+      {
+        "id": 7,
+        "name": "Pomegranate",
+        "photo_url": "https://img.freepik.com/free-photo/exotic-delicious-pomegranate-white-background_144627-12571.jpg",
+        "price": 35
+      },
+      {
+        "id": 8,
+        "name": "Potatoes",
+        "photo_url": "https://img.freepik.com/free-photo/fresh-background-potatoes-close-nutrition_1203-6026.jpg",
+        "price": 80
+      },
+      {
+        "id": 9,
+        "name": "Onions",
+        "photo_url": "https://img.freepik.com/free-photo/red-onion-whole-isolated-white_146671-19175.jpg",
+        "price": 120
+      },
+      {
+        "id": 10,
+        "name": "Mango",
+        "photo_url": "https://img.freepik.com/free-photo/mango-green-isolated-white-background_1205-1214.jpg",
+        "price": 3
+      },
+      {
+        "id": 11,
+        "name": "Banana",
+        "photo_url": "https://img.freepik.com/free-photo/bananas_1339-1187.jpg",
+        "price": 1
+      },
+      {
+        "id": 12,
+        "name": "Apple",
+        "photo_url": "https://img.freepik.com/free-photo/red-ripe-apple_1323-251.jpg",
+        "price": 2
+      },
+      {
+        "id": 13,
+        "name": "Grapes",
+        "photo_url": "https://img.freepik.com/free-photo/fresh-grapes-white_1339-8039.jpg",
+        "price": 4
+      },
+      {
+        "id": 14,
+        "name": "Watermelon",
+        "photo_url": "https://img.freepik.com/free-photo/fresh-watermelon_1339-289.jpg",
+        "price": 10
+      },
+      {
+        "id": 15,
+        "name": "Strawberries",
+        "photo_url": "https://img.freepik.com/free-photo/minimal-view-strawberry-fruit_23-2149642117.jpg",
+        "price": 8
+      },
+      {
+        "id": 16,
+        "name": "Pineapple",
+        "photo_url": "https://img.freepik.com/free-photo/pineapple-slice-isolated_144627-19088.jpg",
+        "price": 6
+      },
+      {
+        "id": 17,
+        "name": "Lemon",
+        "photo_url": "https://img.freepik.com/free-photo/lemon_1205-1666.jpg",
+        "price": 3
+      },
+      {
+        "id": 18,
+        "name": "Cucumber",
+        "photo_url": "https://img.freepik.com/free-photo/fresh-zucchini_1339-1503.jpg",
+        "price": 2
+      },
+      {
+        "id": 19,
+        "name": "Papaya",
+        "photo_url": "https://img.freepik.com/free-photo/fresh-papaya-fruit_144627-34201.jpg",
+        "price": 5
+      },
+      {
+        "id": 20,
+        "name": "Bell Pepper",
+        "photo_url": "https://img.freepik.com/free-photo/side-view-bell-pepper-horizontal_176474-1047.jpg",
+        "price": 4
+      },
+      {
+        "id": 21,
+        "name": "Spinach",
+        "photo_url": "https://img.freepik.com/free-photo/chinese-kale-vegetable_1203-6809.jpg",
+        "price": 3
+      },
+      {
+        "id": 22,
+        "name": "Broccoli",
+        "photo_url": "https://img.freepik.com/free-photo/fresh-broccoli-isolated_144627-30009.jpg",
+        "price": 5
+      },
+      {
+        "id": 23,
+        "name": "Peach",
+        "photo_url": "https://img.freepik.com/free-photo/fresh-yellow-apricots-isolated-white_114579-10486.jpg",
+        "price": 3
+      },
+      {
+        "id": 24,
+        "name": "Pear",
+        "photo_url": "https://img.freepik.com/free-photo/yellow-pear_74190-3447.jpg",
+        "price": 2
+      },
+      {
+        "id": 25,
+        "name": "Orange",
+        "photo_url": "https://img.freepik.com/free-photo/mandarin-isolated-white-background_93675-131660.jpg",
+        "price": 4
+      },
+      {
+        "id": 26,
+        "name": "Kiwi",
+        "photo_url": "https://img.freepik.com/free-photo/close-up-tasty-kiwi-white-background_1112-453.jpg",
+        "price": 3
+      },
+      {
+        "id": 27,
+        "name": "Avocado",
+        "photo_url": "https://img.freepik.com/free-photo/fresh-avocado-isolated-white-background_123827-21091.jpg?",
+        "price": 6
+      },
+      {
+        "id": 28,
+        "name": "Apricot",
+        "photo_url": "https://img.freepik.com/free-photo/fresh-yellow-apricots-isolated-white_114579-10486.jpg",
+        "price": 4
+      },
+      {
+        "id": 29,
+        "name": "Cherry",
+        "photo_url": "https://img.freepik.com/free-photo/big-cherry-white-background_1387-638.jpg",
+        "price": 3
+      },
+      {
+        "id": 30,
+        "name": "Mango",
+        "photo_url": "https://img.freepik.com/free-photo/yellow-organic-mangos-mango-life_1203-5468.jpg",
+        "price": 3
+      },
+      {
+        "id": 31,
+        "name": "Dates",
+        "photo_url": "https://img.freepik.com/free-photo/datil-white_1368-6555.jpg?size=626&ext=jpg&uid=R109750186&ga=GA1.2.619045431.1661486403&semt=ais",
+        "price": 1
+      },
+      {
+        "id": 32,
+        "name": "Guavas",
+        "photo_url": "https://img.freepik.com/free-photo/delicious-fruit-with-water-drops_1205-272.jpg",
+        "price": 2
+      },
+      {
+        "id": 33,
+        "name": "Grapes",
+        "photo_url": "https://www.freepngimg.com/thumb/grapes/8-2-grapes-png-pic-thumb.png",
+        "price": 4
+      },
+      {
+        "id": 34,
+        "name": "Watermelon",
+        "photo_url": "https://www.freepngimg.com/thumb/watermelon/3-2-watermelon-png-image-thumb.png",
+        "price": 10
+      },
+      {
+        "id": 35,
+        "name": "Strawberries",
+        "photo_url": "https://www.freepngimg.com/thumb/strawberry/1-2-strawberry-picture-thumb.png",
+        "price": 8
+      },
+      {
+        "id": 36,
+        "name": "Pineapple",
+        "photo_url": "https://www.freepngimg.com/thumb/pineapple/15-2-pineapple-picture-thumb.png",
+        "price": 6
+      },
+      {
+        "id": 37,
+        "name": "Lemon",
+        "photo_url": "https://www.freepngimg.com/thumb/lemon/1-2-lemon-picture-thumb.png",
+        "price": 3
+      },
+      {
+        "id": 38,
+        "name": "Cucumber",
+        "photo_url": "https://www.freepngimg.com/thumb/cucumber/1-2-cucumber-picture-thumb.png",
+        "price": 2
+      },
+      {
+        "id": 39,
+        "name": "Papaya",
+        "photo_url": "https://www.freepngimg.com/thumb/papaya/3-2-papaya-picture-thumb.png",
+        "price": 5
+      },
+      {
+        "id": 40,
+        "name": "Bell Pepper",
+        "photo_url": "https://www.freepngimg.com/thumb/bell_pepper/1-2-bell-pepper-picture-thumb.png",
+        "price": 4
+      }
+    ]
+  }
+  

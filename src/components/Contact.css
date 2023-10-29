@@ -1,0 +1,44 @@
+.h-box{
+    margin-top: 50px;
+  text-align: center;
+}
+.text{
+  color: orange;
+}
+.pq-box{
+  margin: auto;
+  width: 80%;
+  border: 1px solid floralwhite;
+  padding: 10px;
+}
+.pq-box col{
+  margin: 30px;
+  padding: 50px;
+}
+.q-box{
+  margin-top: 40px;
+  margin-left: 0px;
+}
+.col input{
+  background-color: rgb(246, 242, 236);
+  height: 60px;
+  padding: 30px;
+}
+.txt-box{
+  width: 77%;
+}
+.txt{
+  height: 200px;
+  margin-left: 40px;
+  margin-bottom: 40px;
+}
+.c-btn{
+  background: linear-gradient(#ff4b1f,#ff9068);
+  border-radius: 50px;
+  width: 220px;
+  height: 70px;
+  padding: 10px;
+}
+.btn:hover{
+  background: linear-gradient(#52c234,#061700);
+}

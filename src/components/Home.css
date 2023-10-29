@@ -1,0 +1,167 @@
+
+.header {
+    background-color: rgb(21, 21, 22);
+    padding: 5px;
+  }
+  
+  .header p {
+    color: rgb(252, 250, 250);
+    margin-top: 20px;
+  }
+  .d-block{
+    height: 700px;
+    width: 100px;
+  }
+  .navbar.light:hover {
+    /* Add your hover styles here */
+    background-color: #f0f0f0;
+    color: #333;
+  }
+  .navbar {
+    height: 50px;
+    background-color: #f9f9f9;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  
+  .navbar-logo {
+    padding-bottom: 30px;
+  }
+  
+  .navbar-items {
+    margin-left: 10px;
+    font-size: 1em;
+    padding-bottom: 30px;
+    color: black;
+  }
+  
+  .navbar-item {
+    color: rgb(22, 22, 22);
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 36px;
+    font-weight: 500;
+  }
+  
+  .navbar-item:hover {
+    color: orange;
+  }
+
+  .h-details {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .grid{
+    justify-content: space-around;
+  }
+  .about-text h1,
+  .about-text p {
+    text-align: center;
+  }
+  
+  .objective {
+    height: 200px;
+  }
+  
+  .card {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  
+  .card-text {
+    overflow: auto;
+    max-height: 150px;
+  }
+  .cart-btn{
+    background-color: chocolate;
+    color: aliceblue;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+ }
+  .registar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  
+  .registar p {
+    font-size: 1.9em;
+    font-weight: 700;
+  }
+  .facilities{
+    justify-content: space-evenly;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  .s-img{
+    width: 200px;
+    border-radius: 50%;
+  }
+  .s-card{
+    transition: transform 0.3s ease-in-out;
+  }
+  .s-card:hover {
+    transform: scale(1.05);
+  }
+  .products{
+    justify-content: center;
+    align-items: center;
+  }
+  /* Testimonial */
+  .testimonial-section {
+    background-color: #f9f9f9;
+    padding: 40px 0;
+  }
+  
+  .testimonial {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .testimonial p {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .customer-name {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+
+  .footer {
+    background-color: black;
+    color: #f9f9f9;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  
+  .explore {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .links {
+    display: flex;
+  }
+  
+  .explore a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #f9f9f9;
+  }
+  
